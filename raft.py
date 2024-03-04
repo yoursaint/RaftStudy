@@ -12,7 +12,3 @@ for _node in nodes:
     _node.start()
     _node.join()
 
-"""
-#To-Do
-Log 출력은 어떻게...?
-"""
